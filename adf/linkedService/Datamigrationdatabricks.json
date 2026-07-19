@@ -1,0 +1,12 @@
+{
+	"name": "Datamigrationdatabricks",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405613093990459.19.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/f2fbff19-526c-4ae0-8a9c-3eb84be13cfd/resourceGroups/datamigration/providers/Microsoft.Databricks/workspaces/Manoj-WorkSpace"
+		}
+	}
+}
